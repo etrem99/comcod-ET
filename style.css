@@ -5,3 +5,7 @@ body {
     Border: 4px solid yellow;
     border-radius: 60%;
 }
+img, 
+video {
+    max-width:100%;
+}
